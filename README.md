@@ -11,6 +11,7 @@ This project is a double 20-100 harmonic reducer GEM (German equatorial mount) ,
 4. The control system is based on [onstep](https://github.com/hjd1964/OnStep)
 ## warning
 Please use the source code of onstep in this project.
+For hardware , please use the files in the directory —— v2.0-now
 # 中文
 ## 概述
 本项目机械部分使用solidworks2020完成设计
@@ -22,3 +23,4 @@ Please use the source code of onstep in this project.
 4. 控制系统基于[onstep](https://github.com/hjd1964/OnStep)
 ## 注意
 请使用本项目附带的onstep源码
+机械部分请使用v2.0-now中的文件
