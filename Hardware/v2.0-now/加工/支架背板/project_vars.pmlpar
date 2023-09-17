@@ -1,0 +1,39 @@
+{
+	"type" : "Project",
+	"time" : "1693733855",
+	"version" : "0"
+}
+{
+	"Programmer" "S" "创建此项目的程序员姓名。" "443ba28064f420e60001a56100000000" : "Leader",
+	"Customer" "S" "项目所涉及的用户名称。" "443bd60064f420e60001a56300000000" : "",
+	"TextBlocks" "M" "文本对象占位符。" "443bdd8064f420e60001a56500000000" : {
+	},
+	"HoleTagCatalog" "S" "此项目最后用过的目录。" "443bdc0064f420e60001a56700000000" : "",
+	"FusionProductionJob" : {
+		"Name" : "${project_pathname(1)}",
+		"Instructions" : "${Project.Notes}",
+		"Tags" : (
+		),
+		"TaskList" : (
+		)
+	},
+	"A360" "M" "此PowerMill项目的A360设置。" : {
+		"Hub" "S" "A360 Hub ID" : "",
+		"Folder" "S" "A360 文件夹 ID" : "",
+		"Project" "S" "A360 项目 ID" : ""
+	},
+	"ThicknessSets" "M" "余量设置占位符。" "443bdc8064f420e60001a56d00000000" : {
+	},
+	"PartName" "S" "此项目的零件名称。" "443bdd6064f420e60001a56f00000000" : "",
+	"ProjectHistory" "LM" "项目历史。" "443bda4064f420e60001a57100000000" : (
+		{
+			"ClientName" "S" "客户产品名称。" "443bde0064f420e60001a57300000000" : "PowerMill",
+			"ClientVersion" "S" "客户产品版本。" "443bd7e064f420e60001a57500000000" : "2022000",
+			"DmkCodebase" "S" "Delcam libraries codebase 编号。" "443bd82064f420e60001a57700000000" : "2022005"
+		}
+	),
+	"Tolerances" "M" "公差值占位符。" "443bdc6064f420e60001a57900000000" : {
+	},
+	"OrderNumber" "S" "此项目排序编号。" "443bd8e064f420e60001a57b00000000" : "",
+	"Notes" "S" "项目便笺。" "443be46064f420e60001a57d00000000" : ""
+}
